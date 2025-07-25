@@ -7,7 +7,7 @@ Based on work from Paul Scherrer Institute (arXiv:1811.06085v2 [physics.ins-det]
 
 - main
   - main.py - 
-  - testfield.py - 
+  - test_field.py - 
   - field_package :
     - gen_solenoid.py - 
     - gen_helmholtz.py - 
